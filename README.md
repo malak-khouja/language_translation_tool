@@ -1,5 +1,4 @@
-# Language Translation Tool - CodeAlpha Internship Project
-
+# Language Translation Tool
 A React-based web application that allows users to translate text between languages using an local model(gemma). It features dropdowns to choose source and target languages, and displays the translated text dynamically.
 
 ## 🌐 Features
